@@ -30,7 +30,7 @@ ML model with 85% accuracy + Flask deployment.
 
 ## 💻 Tech Stack
 
-Java | Python | SQL | Flask | PySpark | HTML | CSS | AWS
+Java | Python | SQL | Flask | HTML | CSS | AWS
 
 
 ## 🧩 Coding Profiles
